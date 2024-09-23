@@ -21,7 +21,8 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shadowkudo&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shadowkudo&theme=react-dark)
+
 <!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowkudo&show_icons=true&theme=radical)-->
 ## 🌐 Connect with me
 
