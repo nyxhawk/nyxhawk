@@ -21,8 +21,8 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowkudo&show_icons=true&theme=radical)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shadowkudo&theme=react-dark)
+<!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadowkudo&show_icons=true&theme=radical)-->
 ## 🌐 Connect with me
 
-- LinkedIn: [John's LinkedIn](https://www.linkedin.com/in/david-schildboeck-275ds2000/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/david-schildboeck-275ds2000/)
