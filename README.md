@@ -13,11 +13,6 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 
 - 📫 How to reach me &rarr; [david.schildbock@heig-vd.ch](mailto:david.schildbock@heig-vd.ch).
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shadowkudo/count.svg" />
-</p>
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
