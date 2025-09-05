@@ -39,16 +39,16 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 
 ## 🚀 Highlight Projects
 
-- [**Dotfiles**](https://github.com/shadowkudo/ArchLinux) — My dotfiles repo for the configuration of my laptop (private mode)
+- [**Dotfiles**](https://github.com/nyxhawk/ArchLinux) — My dotfiles repo for the configuration of my laptop (private mode)
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowkudo&repo=ArchLinux&show_icons=true) Private repo does not show up !-->
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/shadowkudo">
-    <img href="https://github.com/shadowkudo/" src="https://github-readme-stats.vercel.app/api?username=shadowkudo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=6aa6f8" width="450" height="200"/></a>
-  <a href="https://github.com/shadowkudo">
-    <img href="https://github.com/shadowkudo/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowkudo&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450" height="200"/></a>
+  <a href="https://github.com/nyxhawk">
+    <img href="https://github.com/nyxhawk/" src="https://github-readme-stats.vercel.app/api?username=nyxhawk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=6aa6f8" width="450" height="200"/></a>
+  <a href="https://github.com/nyxhawk">
+    <img href="https://github.com/nyxhawk/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyxhawk&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450" height="200"/></a>
 </div>
 
 ## 🌐 Connect with me
