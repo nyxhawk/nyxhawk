@@ -54,7 +54,7 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://github.com/shadowkudo">
+  <a href="https://github.com/nyxhawk">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/david-schildboeck-275ds2000/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
