@@ -1,4 +1,4 @@
-# Hi there, I'm David Schildböck
+# Hi there, I'm David
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+student;Learning+at+HEIG-VD;From+Switzerland"></a>
@@ -6,14 +6,14 @@
 
 I’m an engineering student in my second year of the IT Bachelor program at [HEIG-VD](https://www.heig-vd.ch/) in Switzerland. I’m passionate about cybersecurity, and I’m always excited to learn new technologies and tackle real-world challenges through coding.
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working on setting up ArchLinux with the window manager AwesomeWM.
-- 🌱 As part of my studies, I am currently learning &rarr; ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8) ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+- I’m currently working on setting up ArchLinux with the window manager AwesomeWM.
+- As part of my studies, I am currently learning lots of new technologies and programming languages.
+- Completing cybersecurity challenges on [Root-me](https://www.root-me.org/).
+- How to reach me &rarr; [david.schildbock@heig-vd.ch](mailto:david.schildbock@heig-vd.ch).
 
-- 📫 How to reach me &rarr; [david.schildbock@heig-vd.ch](mailto:david.schildbock@heig-vd.ch).
-
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8" alt="C++">
@@ -40,6 +40,7 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 ## 🚀 Highlight Projects
 
 - [**Dotfiles**](https://github.com/nyxhawk/ArchLinux) — My dotfiles repo for the configuration of my laptop (private mode)
+- [**commit.**](https://github.com/getcommitapp) — A mobile application developped in a group of 4 for the PGD (group project) class at school
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowkudo&repo=ArchLinux&show_icons=true) Private repo does not show up !-->
 
 ## 📊 GitHub Stats
