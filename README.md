@@ -33,34 +33,9 @@ I’m an engineering student in my second year of the IT Bachelor program at [HE
 
 ## About Me
 
-- I’m currently working on setting up ArchLinux with the window manager AwesomeWM.
 - As part of my studies, I am currently learning lots of new technologies and programming languages.
 - Completing cybersecurity challenges on [Root-me](https://www.root-me.org/).
 - How to reach me &rarr; [david.schildbock@heig-vd.ch](mailto:david.schildbock@heig-vd.ch).
-
-## Technologies & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=6aa6f8" alt="C++">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8" alt="C">
-  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8" alt="SQL">
-  <img src="https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8" alt="Bash">
-  <img src="https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=6aa6f8" alt="Lua">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8" alt="Git">
-  <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=gitHub&logoColor=white&color=6aa6f8" alt="GitHub">
-  <img src="https://img.shields.io/badge/Tools-JetBrains-informational?style=flat&logo=jetbrains&logoColor=white&color=6aa6f8" alt="JetBrains">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8" alt="Linux">
-  <img src="https://img.shields.io/badge/Tools-Terminal-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8" alt="Terminal">
-  <img src="https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=6aa6f8" alt="Markdown">
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8" alt="MySQL">
-  <img src="https://img.shields.io/badge/Database-PostGres-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8" alt="PostGres">
-</div>
 
 ## 🚀 Highlight Projects
 
